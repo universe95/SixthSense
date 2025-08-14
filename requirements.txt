@@ -1,10 +1,10 @@
 streamlit
 pandas
 numpy
-matplotlib
+matplotlib==3.7.5
 seaborn
 plotly
-koreanize-matplotlib
 scipy
 scikit-learn
 imbalanced-learn
+koreanize-matplotlib
