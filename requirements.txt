@@ -7,4 +7,4 @@ plotly
 scipy
 scikit-learn
 imbalanced-learn
-fonttools
+koreanize-matplotlib==0.9.2
