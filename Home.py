@@ -9,7 +9,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-image_path = "공정 대시보드.png"
+image_path = "dashboard.png"
 
 st.image(image_path, use_container_width=True)  
 
