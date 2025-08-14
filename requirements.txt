@@ -1,10 +1,11 @@
+python-version==3.9
 streamlit
 pandas
 numpy
-matplotlib==3.7.5
+matplotlib
 seaborn
 plotly
+koreanize-matplotlib
 scipy
 scikit-learn
 imbalanced-learn
-koreanize-matplotlib
