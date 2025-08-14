@@ -4,7 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 import plotly.express as px
-# import koreanize_matplotlib
+import koreanize_matplotlib
 import plotly.graph_objects as go
 from scipy.stats import gaussian_kde
 
