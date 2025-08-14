@@ -4,7 +4,7 @@ numpy
 matplotlib
 seaborn
 plotly
-scipy
-scikit-learn<1.4
-imbalanced-learn<0.12
 koreanize-matplotlib
+scipy
+scikit-learn
+imbalanced-learn
