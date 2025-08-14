@@ -4,7 +4,7 @@ numpy
 matplotlib
 seaborn
 plotly
+koreanize-matplotlib
 scipy
 scikit-learn
 imbalanced-learn
-koreanize-matplotlib
